@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FreshChoiceCart/static/css/main.afe171ab.chunk.css",
+    "main.js": "/FreshChoiceCart/static/js/main.406cd61b.chunk.js",
+    "main.js.map": "/FreshChoiceCart/static/js/main.406cd61b.chunk.js.map",
+    "runtime-main.js": "/FreshChoiceCart/static/js/runtime-main.2943c8c6.js",
+    "runtime-main.js.map": "/FreshChoiceCart/static/js/runtime-main.2943c8c6.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/FreshChoiceCart/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.c9047e42.chunk.js": "/FreshChoiceCart/static/js/2.c9047e42.chunk.js",
+    "static/js/2.c9047e42.chunk.js.map": "/FreshChoiceCart/static/js/2.c9047e42.chunk.js.map",
+    "index.html": "/FreshChoiceCart/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/FreshChoiceCart/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.afe171ab.chunk.css.map": "/FreshChoiceCart/static/css/main.afe171ab.chunk.css.map",
+    "static/js/2.c9047e42.chunk.js.LICENSE.txt": "/FreshChoiceCart/static/js/2.c9047e42.chunk.js.LICENSE.txt",
+    "static/media/12.4d2c0a89.jpg": "/FreshChoiceCart/static/media/12.4d2c0a89.jpg",
+    "static/media/15.830c7c30.jpg": "/FreshChoiceCart/static/media/15.830c7c30.jpg",
+    "static/media/16.6776a153.jpg": "/FreshChoiceCart/static/media/16.6776a153.jpg",
+    "static/media/Group 26291.8833c7e9.png": "/FreshChoiceCart/static/media/Group 26291.8833c7e9.png",
+    "static/media/Group 26293.172b9942.png": "/FreshChoiceCart/static/media/Group 26293.172b9942.png",
+    "static/media/Group 26304.9248886b.png": "/FreshChoiceCart/static/media/Group 26304.9248886b.png",
+    "static/media/logo.7c4b0451.jpg": "/FreshChoiceCart/static/media/logo.7c4b0451.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2943c8c6.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.c9047e42.chunk.js",
+    "static/css/main.afe171ab.chunk.css",
+    "static/js/main.406cd61b.chunk.js"
+  ]
+}
